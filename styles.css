@@ -15,9 +15,11 @@ header {
 
 body {
   background-color: #1f2937;
+  margin: 0;
 }
 
-#cat2, #cat3 {
+#cat2,
+#cat3 {
   color: white;
   font-size: 20px;
 }
@@ -32,7 +34,6 @@ body {
   margin: 10px;
   border-color: #3882f6;
   font-weight: bold;
-  
 }
 
 img {
@@ -72,7 +73,6 @@ footer {
   text-align: center;
   font-size: 30px;
   padding: 60px;
-  
 }
 
 .joao {
@@ -126,16 +126,15 @@ footer {
 }
 
 .item {
-    color: white;
-    text-decoration: none;
-    padding: 15px;
+  color: white;
+  text-decoration: none;
+  padding: 15px;
 }
 
 h2 {
-    line-height: 120px;
+  line-height: 120px;
 }
 
 .eating {
-    width: 5%;
-    
+  width: 5%;
 }
