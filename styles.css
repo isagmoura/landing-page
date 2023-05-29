@@ -35,6 +35,7 @@ body {
   margin: 10px;
   border-color: #3882f6;
   font-weight: bold;
+  cursor: pointer;
 }
 
 img {
@@ -124,6 +125,7 @@ footer {
   display: flex;
   justify-content: left;
   font-weight: bold;
+  cursor: pointer;
 }
 
 .item {
